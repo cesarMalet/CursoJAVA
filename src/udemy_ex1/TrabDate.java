@@ -14,6 +14,7 @@ public class TrabDate {
 		
 		Date atual = new Date();
 		
+		System.out.println("data modificadas");
 		System.out.println(da1.format(dat));
 		System.out.println(da1.format(atual));
 
